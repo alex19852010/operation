@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/operation/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/test_cmake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test_cmake.dir\\src\\main.cpp.obj -c C:\\operation\\src\\main.cpp",
+  "file": "C:/operation/src/main.cpp",
+  "output": "CMakeFiles/test_cmake.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/operation/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/test_cmake.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\test_cmake.dir\\src\\operation.cpp.obj -c C:\\operation\\src\\operation.cpp",
+  "file": "C:/operation/src/operation.cpp",
+  "output": "CMakeFiles/test_cmake.dir/src/operation.cpp.obj"
+}
+]

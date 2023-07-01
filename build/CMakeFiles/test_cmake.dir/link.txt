@@ -1,0 +1,3 @@
+C:\cmake-3.27.0-rc3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\test_cmake.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\test_cmake.dir/objects.a @CMakeFiles\test_cmake.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--dependency-file,CMakeFiles\test_cmake.dir\link.d -Wl,--whole-archive CMakeFiles\test_cmake.dir/objects.a -Wl,--no-whole-archive -o test_cmake.exe -Wl,--out-implib,libtest_cmake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_cmake.dir\linkLibs.rsp
